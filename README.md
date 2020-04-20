@@ -1,2 +1,2 @@
 # sql_tools
-SQL tools from my experience
+SQL tools from my professional experience
